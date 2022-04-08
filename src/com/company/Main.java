@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Cat vaska = new Cat();
         vaska.run(100);
-        vaska.run(400);
+        vaska.run(350);
         vaska.sweem(7);
 
         Dog bobik = new Dog();
